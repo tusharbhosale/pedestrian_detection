@@ -34,6 +34,6 @@ For next 40 epochs learning rate is 0.00001.
 ### Output
 Output is in the form (16,16,1,5). To get boxes from output required functions are in decode_boxes.py file. Non max suppression is used to eliminate boxes as mentioned in yolo paper.
 
-#####Output on [eth dataset](https://data.vision.ee.ethz.ch/cvl/aess/cvpr2008/seq04-img-left.tar.gz)
+##### Output on [eth dataset](https://data.vision.ee.ethz.ch/cvl/aess/cvpr2008/seq04-img-left.tar.gz)
 
 ![alt text](https://github.com/tusharbhosale/pedestrian_detection/blob/master/output/eth_gif.gif)
