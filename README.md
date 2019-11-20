@@ -1,6 +1,6 @@
 # Pedestrian_detection
 
-### Pedestrain detection using YOLO algirithm
+### Pedestrain detection using YOLO algorithm
 
 This is pedestrian detection project using yolo(You only look once) algorithm from scratch in python and keras.
 
